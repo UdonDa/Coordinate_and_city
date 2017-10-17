@@ -12,7 +12,7 @@ Python 3.6.2
 
 ## 使い方
 #### coordinate_to_city.py
-coordinateChanger = CoordinateChanger()
-b = a.get_address("緯度", "経度")
-(b = ○○市○町)
+coordinateChanger = CoordinateChanger()  
+b = a.get_address("緯度", "経度")  
+(b = ○○市○町)  
 
